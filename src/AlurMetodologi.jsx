@@ -135,12 +135,6 @@ export default function AlurMetodologi() {
       padding: '20px 24px',
       minHeight: '100vh',
     }}>
-      {/* Proxima Nova font import via Google Fonts alternative */}
-      <style>{`
-        @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap');
-        * { box-sizing: border-box; }
-      `}</style>
-
       {/* TITLE */}
       <div style={{
         background: P, color: '#fff', textAlign: 'center',
